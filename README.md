@@ -20,5 +20,5 @@ This is a lightweight and interactive quiz application built using **HTML**, **C
 
 ## 🧪 Live Demo
 
-[Click here to play the quiz](https://your-username.github.io/quiz-app/)
+[Click here to play the quiz](https://soroushx123.github.io/quiz-app/)
 
